@@ -1,0 +1,12 @@
+name: avant-noel
+version: 1.0
+description: calendrier de l'avant
+author: Amosar
+depend: [Vault]
+
+main: com.trafalcraft.avantNoel.Main
+
+commands:
+   can:
+     description: commande de base du calendrier de l'avant.
+     aliases: [sw]
